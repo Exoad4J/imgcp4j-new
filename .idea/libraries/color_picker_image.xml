@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="color-picker-image">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/color-picker-image.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

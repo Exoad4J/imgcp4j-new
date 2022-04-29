@@ -1,0 +1,9 @@
+{
+  "java.project.outputPath": "bin",
+  "C_Cpp.errorSquiggles": "Enabled",
+  "files.associations": {
+    "*.diff": "diff",
+    "*.yxx": "cpp",
+    "fstream": "cpp"
+  }
+}
