@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="ui_factory">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/ui_factory.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
